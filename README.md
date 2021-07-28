@@ -9,15 +9,15 @@ Custom Help command <br/>
 More features soon <br/>
 # How to change status and prefix.
  <br/>
-**Prefix** <br/>
+Prefix <br/>
  <br/>
 Open the .py file in any IDE or text editor of your choice <br/>
 Then There will be a variable named "prefix" just change its value to the prefix you like, for e.g.= "r!" <br/>
  <br/>
-**Status** <br/>
+Status <br/>
  <br/>
 For changing the status, Find the comment named **#Start message**<br/> 
-There will be _status = discord.Status._**online** change the "online" to your choice, for e.g.= "dnd", "idle", "invisible". <br/>
+There will be status = discord.Status.online change the "online" to your choice, for e.g.= "dnd", "idle", "invisible". <br/>
 I am still typing the activity part... :P <br/>
 
 # Links
