@@ -24,5 +24,5 @@ There will be status = discord.Status.online change the "online" to your choice,
 I am still typing the activity part... :P <br/>
 
 # Links
-* [My friend's Discord](http://discord.fanaticsmp.gq)
+* [My friend's Discord](https://discord.gg/9fEYnQbmSU)
 * [Discord where i am active mostly](https://dsc.gg/tech18)
