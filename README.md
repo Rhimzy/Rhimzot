@@ -18,7 +18,8 @@ Then There will be a variable named "prefix" just change its value to the prefix
  <br/>
 For changing the status, Find the comment named **#Start message**<br/> 
 There will be _status = discord.Status._**online** change the "online" to your choice, for e.g.= "dnd", "idle", "invisible". <br/>
-I am still typing the activity part... :P
+I am still typing the activity part... :P <br/>
+
 # Links
 * [My friend's Discord](http://discord.fanaticsmp.gq)
 * [Discord where i am active mostly](https://dsc.gg/tech18)
